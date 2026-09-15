@@ -1,7 +1,6 @@
 ## 🛠️ Étudiant en BTS CIEL · Apprenti développeur 
 
 *   🌍  Basé en France
-*   📱  Co-fondateur de [Arch-Prod](https://archprod.alwaysdata.net/)
 *   ☕  Actuellement en apprentissage : **Java & Javascript**
 *   🖥️  Stack frontend : **Svelte · HTML · CSS**
 
