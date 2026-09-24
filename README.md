@@ -1,5 +1,4 @@
-## 🛠️ Étudiant en BTS CIEL · Apprenti développeur 
-
+## 🛠️ Étudiant en BTS CIEL
 *   🌍  Basé en France
 *   ☕  Actuellement en apprentissage : **Java & Javascript**
 *   🖥️  Stack frontend : **Svelte · HTML · CSS**
